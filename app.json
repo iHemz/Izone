@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9694bb81-4e17-44dd-b26d-0a967ddc1a19"
+      }
+    },
+    "owner": "ihemz-codes"
   }
 }
